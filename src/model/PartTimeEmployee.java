@@ -38,7 +38,7 @@ public class PartTimeEmployee extends Employee {
                 ", age=" + super.getAge() +
                 ", phoneNumber='" + super.getPhoneNumber() + '\'' +
                 ", email='" + super.getEmail() + '\'' +
-                "workHours=" + workHours +
+                ", workHours=" + workHours +
                 '}';
     }
 }
