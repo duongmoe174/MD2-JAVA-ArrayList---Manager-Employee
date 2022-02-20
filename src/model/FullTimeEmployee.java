@@ -59,7 +59,7 @@ public class FullTimeEmployee extends Employee{
                 ", age=" + super.getAge() +
                 ", phoneNumber='" + super.getPhoneNumber() + '\'' +
                 ", email='" + super.getEmail() + '\'' +
-                "bonus=" + bonus +
+                ", bonus=" + bonus +
                 ", fineMoney=" + fineMoney +
                 ", basicSalary=" + basicSalary +
                 '}';
